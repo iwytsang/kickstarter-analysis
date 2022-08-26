@@ -9,7 +9,7 @@ The purpose of the analysis is to assist Louise, an up-and-coming playwright, wi
 The analysis was performed by creating charts based on the data in the Kickstarter table.
 
 ### Analysis of Outcomes Based on Launch Date
-The first line chart is titled **"theater outcomes by launch date"** which plots how many theater campaigns were successful, failed and canceled over the months.
+The first line chart is titled **"theater outcomes by launch date"** which plots how many theater campaigns were successful, failed and canceled over the months. The x axis plots each month from January to December, while the y axis plots the number of successful, failed, or canceled campaigns.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/108503112/186805289-954dff1c-3719-492a-88cc-0e0bacf0cc43.png)
 
