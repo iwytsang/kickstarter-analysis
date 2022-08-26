@@ -10,10 +10,12 @@ The analysis was performed by creating charts based on the data in the Kickstart
 
 ### Analysis of Outcomes Based on Launch Date
 The first line chart is titled **"theater outcomes by launch date"** which plots how many theater campaigns were successful, failed and canceled over the months.
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/108503112/186805289-954dff1c-3719-492a-88cc-0e0bacf0cc43.png)
 
 ### Analysis of Outcomes Based on Goals
 The second line chart is titled **"outcomes based on goals"** which plots the percentage of successful, failed, and canceled plays in the different goal ranges.
+
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/108503112/186805308-c13b5abe-b15d-4e4d-bff3-82e71f32286e.png)
 
 ### Challenges and Difficulties Encountered
