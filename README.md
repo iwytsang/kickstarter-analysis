@@ -32,7 +32,7 @@ One conclusion that can be drawn from the "outcomes based on goals" is that all 
 Another conclusion is that there were no canceled plays at all.
 
 - What are some limitations of this dataset?
-The limitations of this particular dataset of both "outcomes based on launch date" and "outcomes based on goals" is that we are not finding measures of central tendency. We don't get a sense of how the data is distributed when it comes to theater/play campaigns vs. campaigns of other types, ie. what is the average goal amount 
+The limitations of this particular dataset is we don't know why things were successful or failed or canceled.
 
 - What are some other possible tables and/or graphs that we could create?
 Other tables or graphs that could be created include the histogram.
