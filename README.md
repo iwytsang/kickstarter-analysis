@@ -23,11 +23,11 @@ Challenges encountered include setting the criteria for the **"outcomes based on
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+**- What are two conclusions you can draw about the Outcomes based on Launch Date?**
 One conclusion that can be drawn from the "outcomes based on launch date" is that the most theater campaigns were successful in meeting their goal in the month of May.
 Another conclusion is that the month that had the least amount of successful theater campaigns was in December. It may be best for Louise to do her campaign in May and avoid doing her campaign in December.
 
-- What can you conclude about the Outcomes based on Goals?
+**- What can you conclude about the Outcomes based on Goals?**
 One conclusion that can be drawn from the "outcomes based on goals" is that all the plays that were in the $45,000 to $49,999 goal range failed.
 Another conclusion is that there were no canceled plays at all. From the results, we can see that for the $10,000 to $14,999 range, both the percentage successful and the percentage failed are roughly around 50%. Based on this chart, if Louise would like to set a goal of $10,000 for her play, Fever, there may be approximately a one-in-two chance to succeed.
 
