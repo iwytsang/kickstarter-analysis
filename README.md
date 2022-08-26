@@ -35,7 +35,7 @@ Another conclusion is that there were no canceled plays at all. From the results
 
 - What are some limitations of this dataset?
 
-The limitations of this particular dataset is we don't know why the campaigns were successful or failed. The reasons behind the success of a campaign could potentially not be related to the goal amount or the month of the campaign. Although the dataset can show us the correlation between success and goal amounts or the month, it can't definitive determine the cause of success or failure. There may have been external factors unrelated to the data set that caused the success or failure but it would not be indicated from the data alone.
+The limitations of this particular dataset is we don't know why the campaigns were successful or failed. The reasons behind the success of a campaign could potentially not be related to the goal amount or the month of the campaign. Although the dataset can show us the correlation between success and goal amounts or the month, it can't definitively determine the cause of success or failure. There may have been external factors unrelated to the dataset that caused the success or failure but it would not be indicated from the data alone.
 
 - What are some other possible tables and/or graphs that we could create?
 
